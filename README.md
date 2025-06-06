@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Charles
+# 👋 Hello, I'm Charles Daniel Apollo
 
 **🎯 Data Analyst | 📊 MEL Specialist | 🧠 Data Science Enthusiast | 🌍 Based in Juba, South Sudan**
 
@@ -18,7 +18,7 @@ I am a dedicated Monitoring, Evaluation, and Learning (MEL) professional with a 
 
 - 🎓 **Master’s Degree in Data Science**, Guglielmo Marconi University  
 - 📚 **Doctoral Candidate** – DBA in Data Analytics & AI  
-- 📈 Certified in: M&E, Data Visualization, Advanced Excel, Power BI, and Python Programming
+- 📈 Certified in: Data Science, Data Analtics, M&E, Data Visualization,R, Advanced Excel, Power BI, and Python Programming
 
 ---
 
