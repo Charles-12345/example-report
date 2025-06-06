@@ -26,7 +26,7 @@ I am a dedicated Monitoring, Evaluation, and Learning (MEL) professional with a 
 
 - **Programming**: Python (Pandas, NumPy, Matplotlib), SQL  
 - **Data Visualization**: Power BI, Excel, Tableau  
-- **Database Management**: KoboToolbox, ODK, Google Sheets, Microsoft Access  
+- **Database Management**: KoboToolbox, ODK, Google Sheets, Microsoft Access,Survey CTO, COMMCARE
 - **Analytics & Reporting**: SPSS, STATA, Power Query  
 - **Project Monitoring**: Logframes, SMART Indicators, Theory of Change  
 - **Other Tools**: Git/GitHub, Canva, ArcGIS/QGIS (basic)
