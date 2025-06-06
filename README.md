@@ -10,7 +10,7 @@ I am a dedicated Monitoring, Evaluation, and Learning (MEL) professional with a 
 
 📌 I currently serve as a **Field MEL Manager**, previously a **Database Manager**, and actively support humanitarian and development programs with **USAID-funded activities**. My work involves **designing indicators**, developing **logical frameworks**, and ensuring **evidence-based reporting** through advanced analytics tools.
 
-💻 I am passionate about technology-driven solutions for social impact and am currently transitioning into **Data Science**, with growing expertise in **Python, SQL, Excel, and Power BI, R **.
+💻 I am passionate about technology-driven solutions for social impact and am currently transitioning into **Data Science**, with growing expertise in **Python, SQL, Excel,Power BI and R **.
 
 ---
 
