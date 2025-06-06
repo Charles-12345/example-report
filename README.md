@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sir Charles
+# 👋 Hello, I'm Charles
 
 **🎯 Data Analyst | 📊 MEL Specialist | 🧠 Data Science Enthusiast | 🌍 Based in Juba, South Sudan**
 
@@ -54,13 +54,10 @@ I aim to become a **Data Scientist** who applies **AI and analytics for developm
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(update your actual link)*
-- 📝 [Portfolio Website](https://yourportfolio.com) *(optional if you have one)*
-- 📧 Email: yourname@example.com *(optional or masked for privacy)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/charles-daniel-apollo-1551b2b3/) 
+- 📧 Email: charlesdanieldoka@gmail.com 
 
 ---
 
-> *“Turning data into decisions, and insights into impact.”*  
-> — Sir Charles
+> “Turning data into Decisions, and Insights into Impact.” 
 
-Example to Test
